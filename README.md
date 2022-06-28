@@ -1,5 +1,6 @@
 # Sol Audit
 
+- Output audit report including contract description graph, inheritance, function signature. 
 - Advanced Solidity Language Support
 - Source Exploration
 
