@@ -1,5 +1,7 @@
 'use strict';
 /** 
+ * @author nanasunny
+ * @license GPLv3
  * 
  * 
  * */

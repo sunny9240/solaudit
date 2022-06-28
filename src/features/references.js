@@ -1,5 +1,5 @@
 /** 
- * @author github.com/tintinweb
+ * @author nanasunny
  * @license GPLv3
  * 
  * 
