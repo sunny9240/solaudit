@@ -19,5 +19,3 @@
 - highlights **StateVars** (constant, inherited)
 - detects and alerts about StateVar shadowing
 - highlights **function arguments** in the function body
-
-# Installation
